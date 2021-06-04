@@ -1,0 +1,10 @@
+*.iml
+.idea
+log
+logs
+target
+
+*.jar
+*.nar
+*.war
+*.apk
