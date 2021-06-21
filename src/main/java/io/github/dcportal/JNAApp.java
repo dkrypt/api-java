@@ -1,4 +1,4 @@
-package io.github.ramaraosrikakulapu;
+package io.github.dcportal;
 
 import com.sun.jna.Library;
 import com.sun.jna.Native;

@@ -1,4 +1,4 @@
-package io.github.ramaraosrikakulapu;
+package io.github.dcportal;
 
 import jnr.ffi.LibraryLoader;
 import jnr.ffi.Pointer;

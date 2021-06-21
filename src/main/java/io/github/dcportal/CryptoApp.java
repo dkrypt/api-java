@@ -1,4 +1,4 @@
-package io.github.ramaraosrikakulapu;
+package io.github.dcportal;
 
 public class CryptoApp {
     public static void main(String[] args) {

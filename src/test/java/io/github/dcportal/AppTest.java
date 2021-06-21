@@ -1,4 +1,4 @@
-package io.github.ramaraosrikakulapu;
+package io.github.dcportal;
 
 import static org.junit.Assert.assertTrue;
 

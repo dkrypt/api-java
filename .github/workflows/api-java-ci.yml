@@ -31,7 +31,6 @@ jobs:
       
     - name: Publish Packages
       if: github.event_name == 'push'
-#      run: mvn deploy -s $GITHUB_WORKSPACE/settings.xml
       run: mvn --batch-mode deploy
       env:
         GITHUB_TOKEN: ${{ github.token }}
