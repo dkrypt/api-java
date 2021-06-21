@@ -14,7 +14,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Maven Packages DC Portal</name>
-      <url>https://maven.pkg.github.com/dc-release/api-java</url>
+      <url>https://maven.pkg.github.com/ramaraosrikakulapu/api-java</url>
     </repository>
   </distributionManagement>
 
@@ -98,7 +98,7 @@
     </repository>
     <repository>
       <id>github</id>
-      <url>https://maven.pkg.github.com/dc-release/*</url>
+      <url>https://maven.pkg.github.com/ramaraosrikakulapu/*</url>
       <snapshots>
         <enabled>true</enabled>
       </snapshots>
