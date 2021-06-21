@@ -1,4 +1,4 @@
-package io.github.dkrypt;
+package io.github.dcportal;
 
 import jnr.ffi.Pointer;
 import jnr.ffi.annotations.In;

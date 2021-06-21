@@ -1,4 +1,4 @@
-package io.github.dkrypt;
+package io.github.dcportal;
 
 import jnr.ffi.LibraryLoader;
 import jnr.ffi.Pointer;
