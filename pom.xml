@@ -6,7 +6,7 @@
 
   <groupId>io.github.dcportal</groupId>
   <artifactId>jni-example</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.1-SNAPSHOT</version>
 
   <name>jni-example</name>
 
