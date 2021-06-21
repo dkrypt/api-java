@@ -1,4 +1,4 @@
-package io.github.dkrypt;
+package io.github.ramaraosrikakulapu;
 
 import jnr.ffi.LibraryLoader;
 import jnr.ffi.Pointer;

@@ -1,4 +1,4 @@
-package io.github.dkrypt;
+package io.github.ramaraosrikakulapu;
 
 import jnr.ffi.Pointer;
 import jnr.ffi.annotations.In;

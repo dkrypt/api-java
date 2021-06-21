@@ -1,4 +1,4 @@
-package io.github.dkrypt;
+package io.github.ramaraosrikakulapu;
 
 import com.sun.jna.Library;
 import com.sun.jna.Native;
